@@ -1,6 +1,6 @@
 # MLOps
 
-[Журнал](https://docs.google.com)
+[Журнал](https://docs.google.com/spreadsheets/d/1YIp5XDwrjO1j0_kUNCAxyFzwnGNUmHB15Q88s8J1gwg/)
 
 Лекции
 1. [Введение в MLOps](/lection/1%20Intro%20MLOps.pdf)
@@ -16,9 +16,11 @@
 1. Выбрать датасет, базовую модель.
 2. Использовать версионирование Git (выбрать flow), использовать [conventional commits](https://www.conventionalcommits.org), DVC.
 3. Шаблонизация проекта Cookiecutter.
-3. Трекинг и регистрация в MLflow, оркестрация в Kubernetes (minikube).
-4. CI/CD (Github/Gitlab) (обязательно линтер, тесты, сборка, деплой при MR в main).
-5. Сервис на FastAPI с OpenAPI с упаковкой в docker/docker-compose.
-6. Расчёт data drift, concept drift, target drift, добавить мониторинг Prometheus + Grafana (показ разных метрик).
-7. Отчёты с генераций о дрейфе.
-8. Добавить веб UI, что точно должно быть: cтраница инференса, таблица последних предсказаний, флаги аномалий, кнопка «запустить переобучение», страница экспериментов, уведомления о дрейфе
+4. Трекинг и регистрация в MLflow, оркестрация в Kubernetes (minikube).
+5. CI/CD (Github/Gitlab) (обязательно линтер, тесты, сборка, деплой при MR в main).
+6. Сервис на FastAPI с OpenAPI с упаковкой в docker/docker-compose.
+7. Расчёт data drift, concept drift, target drift, добавить мониторинг Prometheus + Grafana (показ разных метрик).
+8. Отчёты с генераций о дрейфе.
+9. Добавить веб UI, что точно должно быть: cтраница инференса, таблица последних предсказаний, флаги аномалий, кнопка «запустить переобучение», страница экспериментов, уведомления о дрейфе.
+10. CD с помощью Ardo CD.
+11. У проекта должно быть Readme, где написано как запускать, из чего состоит.
