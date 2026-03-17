@@ -4,6 +4,7 @@
 
 Лекции
 1. [Введение в MLOps](/lection/1%20Intro%20MLOps.pdf)
+2. [Шаблонизация проектов DS](/lection/2%20Templating%20DS%20projects.pdf)
 
 
 В рамках курса выполняется командный ML проект из 2 человек.
