@@ -7,6 +7,7 @@
 2. [Шаблонизация проектов DS](/lection/2%20Templating%20DS%20projects.pdf)
 3. [Git, DVC](lection/3%20Git,%20DVC.pdf)
 4. [Docker](lection/4%20Docker.pdf)
+5. [CI/CD](lection/5%20CI-CD.pdf)
 
 
 В рамках курса выполняется командный ML проект из 2 человек.
