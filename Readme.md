@@ -10,7 +10,7 @@
 5. [CI/CD](lection/5%20CI-CD.pdf)
 6. [MLflow](lection/6%20MLflow.pdf)
 
-Пример [проекта] в помощь(https://github.com/fastapi-demo).
+Пример [проекта](https://github.com/fastapi-demo) в помощь.
 
 В рамках курса выполняется командный ML проект из 2 человек.
 
