@@ -10,6 +10,7 @@
 5. [CI/CD](lection/5%20CI-CD.pdf)
 6. [MLflow](lection/6%20MLflow.pdf)
 7. [Мониторинг, Airflow](lection/7%20Мониторинг,%20Airflow.pdf)
+8. [Kubernetes](lection/8%20Kubernetes.pdf)
 
 Пример [проекта](https://github.com/leomag/fastapi-demo) в помощь.
 
